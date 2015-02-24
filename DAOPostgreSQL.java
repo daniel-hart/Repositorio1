@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-
+//teste
 public class DAOPostgreSQL implements DAOInterface {
 	
 	private Connection connection = null;
